@@ -6,6 +6,7 @@ Electric State DarkRP
 
 Game suported:
 -Main script
+-Electric State DarkRP
 -Jailbreak
 -Lumber Tycoon 2
 
